@@ -7,3 +7,4 @@ git checkout -b newbranch_name
 git branch
 git branch -m branch_name newbranch_name
 new
+new changes
