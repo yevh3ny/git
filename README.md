@@ -2,10 +2,14 @@ Author:Yevh
 commands:
 git init
 git add -A
-git commit -a
+git commit -am "comment"
 git checkout -b newbranch_name
 git branch
 git branch -m branch_name newbranch_name
-new
-was
-new changes
+git log
+git status
+git merge branch_name
+git fetch
+git merge
+git pull
+git pull --rebase
